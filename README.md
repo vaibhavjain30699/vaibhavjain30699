@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm Vaibhav Jain, a pre-final year IT student at <a href="http://www.iiitm.ac.in/">@ABV-IIITM, Gwalior :school: </a> and an aspiring software developer. Interested in working on Native Android, Flutter and currently working on  iOS development.
+    I'm Vaibhav Jain, a final year IT student at <a href="http://www.iiitm.ac.in/">@ABV-IIITM, Gwalior :school: </a> and an aspiring software developer. Interested in working on Native Android, Flutter and currently working on  iOS development.
   </samp>
 </p>
 
